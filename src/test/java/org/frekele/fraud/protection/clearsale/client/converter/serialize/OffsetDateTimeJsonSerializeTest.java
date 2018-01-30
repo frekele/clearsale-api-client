@@ -34,3 +34,4 @@ public class OffsetDateTimeJsonSerializeTest {
         jsonSerialize.serialize(OffsetDateTime.now().minusDays(4), jsonGenerator, null);
         jsonSerialize.serialize(OffsetDateTime.now().plusHours(6), jsonGenerator, null);
     }
+}
