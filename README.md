@@ -4,8 +4,8 @@
 [![Javadocs](http://www.javadoc.io/badge/org.frekele.fraud.protection/clearsale-api-client.svg?color=blue)](http://www.javadoc.io/doc/org.frekele.fraud.protection/clearsale-api-client)
 [![Build Status](https://travis-ci.org/frekele/clearsale-api-client.svg?branch=master)](https://travis-ci.org/frekele/clearsale-api-client)
 [![Coverage](https://codecov.io/gh/frekele/clearsale-api-client/branch/master/graph/badge.svg)](https://codecov.io/gh/frekele/clearsale-api-client)
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/f16b9543d2f847179b27f9acda1911ee)](https://www.codacy.com/app/frekele/clearsale-api-client?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=frekele/clearsale-api-client&amp;utm_campaign=Badge_Grade)
-[![Codacy Badge](https://api.codacy.com/project/badge/Coverage/f16b9543d2f847179b27f9acda1911ee)](https://www.codacy.com/app/frekele/clearsale-api-client?utm_source=github.com&utm_medium=referral&utm_content=frekele/clearsale-api-client&utm_campaign=Badge_Coverage)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/2551b9b53651465eb59a06980de6cb96)](https://www.codacy.com/app/frekele/clearsale-api-client?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=frekele/clearsale-api-client&amp;utm_campaign=Badge_Grade)
+[![Codacy Badge](https://api.codacy.com/project/badge/Coverage/2551b9b53651465eb59a06980de6cb96)](https://www.codacy.com/app/frekele/clearsale-api-client?utm_source=github.com&utm_medium=referral&utm_content=frekele/clearsale-api-client&utm_campaign=Badge_Coverage)
 
 ### REST Client - ClearSale Fraud Protection API
 
