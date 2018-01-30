@@ -8,7 +8,6 @@ import javax.ws.rs.core.MediaType;
 import java.io.IOException;
 import java.io.InputStream;
 import java.nio.charset.Charset;
-import java.util.UUID;
 
 /**
  * @author frekele - Leandro Kersting de Freitas
@@ -28,10 +27,6 @@ public final class ClearSaleUtils {
         if (obj == null || obj.toString().trim().isEmpty()) {
             throw new ClearSaleException("" + objectName + " can not be Null or Empty!");
         }
-    }
-
-    public static String buildRequestId() {
-        return UUID.randomUUID().toString();
     }
 
     public static String responseBodyToString(ClientResponseContext responseContext) throws IOException {
