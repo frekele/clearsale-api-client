@@ -29,13 +29,13 @@ Project built with RESTEasy 3.5.x + Jackson 2.x.x.
 <dependency>
     <groupId>org.frekele.fraud.protection</groupId>
     <artifactId>clearsale-api-client</artifactId>
-    <version>1.0.0-alpha-1</version>
+    <version>1.0.0-alpha-2</version>
 </dependency>
 ```
 
 #### Gradle dependency:
 ```gradle
-compile 'org.frekele.fraud.protection:clearsale-api-client:1.0.0-alpha-1'
+compile 'org.frekele.fraud.protection:clearsale-api-client:1.0.0-alpha-2'
 ```
 
 #### Usage
