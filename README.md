@@ -17,7 +17,7 @@
 
 Built-based on the documentation: [https://www.clear.sale/developers/api](https://www.clear.sale/developers/api)
 
-Project built with RESTEasy 3.1.x + Jackson 2.x.x.
+Project built with RESTEasy 3.5.x + Jackson 2.x.x.
 
 
 #### Supported Java Versions:
