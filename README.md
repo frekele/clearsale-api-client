@@ -35,7 +35,7 @@ Project built with RESTEasy 3.6.x + Jackson 2.x.x.
 
 #### Gradle dependency:
 ```gradle
-compile 'org.frekele.fraud.protection:clearsale-api-client:1.0.0-alpha-7'
+implementation 'org.frekele.fraud.protection:clearsale-api-client:1.0.0-alpha-7'
 ```
 
 #### Usage
